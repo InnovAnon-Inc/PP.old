@@ -13,13 +13,13 @@ However, we can increase Simon's results' relevance to a particular domain by bu
 -----
 # Applications
 
-Security
+##Security
 Simon can be used to enhance your security model. Programmers need specifications as well as sample input and output data. However, that data can be sensitive (e.g., medical) or classified (e.g., military), causing a bureaucratic delay. Instead of sharing real data with your subcontractors, you can share *realistic* data with them.
 
-Entertainment and Gaming
+##Entertainment and Gaming
 Games and engines which have an API can have Simon generate randomized maps, characters and monsters, etc.
 
-The Arts
+##The Arts
 Simon can be used as a Creativity Assistant, producing a continuous stream of new ideas that are completely unencumbered by licensing, copyrights and patents, etc: the Simon software is in the public domain and the output produced when you run Simon is yours.
 
 -----
